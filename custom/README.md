@@ -5,8 +5,6 @@
 CONDA - ../conda_yml/env_iqn_torch.yml
 CARLA - Pythonapi/example/requirement.txt
 </pre>
----  
----
 ## issue
 ### 1. lidar senser env 
 ---  
